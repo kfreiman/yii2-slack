@@ -1,0 +1,16 @@
+{
+    "name": "kfreiman/yii2-slackTarget",
+    "type": "extension",
+    "license": "GPL-v3",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.0",
+        "kfreiman/pslackr": "^0.1.4"
+    },
+    "authors": [
+        {
+            "name": "Kirill Freiman",
+            "email": "k.freiman@ya.ru"
+        }
+    ]
+}
