@@ -1,5 +1,5 @@
 {
-    "name": "kfreiman/yii2-slackTarget",
+    "name": "kfreiman/yii2-slack-target",
     "type": "extension",
     "license": "GPL-v3",
     "require": {
